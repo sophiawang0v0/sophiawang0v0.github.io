@@ -23,10 +23,10 @@ repository               : "sophiawang0v0/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Sophia Wang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "Sophomore \n Math w Data Science & Economics Major"
+  location         : "Antarctica"
   employer         : "Red Brick University"
   uri              : # URL
   email            : "none@example.org" 
