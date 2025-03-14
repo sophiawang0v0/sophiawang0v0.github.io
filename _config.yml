@@ -22,8 +22,8 @@ repository               : "sophiawang0v0/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Sophia Wang"
+  avatar           : "profile.jpg"
+  name             : "Haiyu Wang"
   pronouns         : # example: "she/her"  
   bio              : "Sophomore, Math w Data Science & Economics Major"
   location         : "Antarctica"
