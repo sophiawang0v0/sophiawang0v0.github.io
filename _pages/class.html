@@ -5,7 +5,7 @@ permalink: /class/
 author_profile: true
 ---
 
-{% if site.talkmap_link == true %}
+<!-- {% if site.talkmap_link == true %}
 
 <p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
 
@@ -13,4 +13,26 @@ author_profile: true
 
 {% for post in site.talks reversed %}
   {% include archive-single-talk.html %}
-{% endfor %}
+{% endfor %} -->
+
+{% include base_path %}
+
+{% if site.class_category %}
+  {% for category in site.class_category  %}
+    {% assign title_shown = false %}
+    {% for post in site.class reversed %}
+      {% if post.category != category[0] %}
+        {% continue %}
+      {% endif %}
+      {% unless title_shown %}
+        <h2>{{ category[1].title }}</h2><hr />
+        {% assign title_shown = true %}
+      {% endunless %}
+      {% include archive-single.html %}
+    {% endfor %}
+  {% endfor %}
+{% else %}
+  {% for post in site.class reversed %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% endif %}
