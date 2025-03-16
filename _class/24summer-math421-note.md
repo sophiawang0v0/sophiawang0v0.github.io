@@ -4,7 +4,7 @@ collection: class
 type: "Note"
 permalink: /class/24summer-math421-note
 venue: "UW-Madison-math"
-date: 2024-08
+date: 2024-08-01
 location: "Madison, WI, USA"
 notesurl: 'http://sophiawang0v0.github.io/files/Math421_note.pdf'
 ---
