@@ -1,7 +1,7 @@
 ---
 title: "Summer 2024 Math 421"
 collection: class
-type: "Note"
+category: math
 permalink: /class/24summer-math421-note
 venue: "UW-Madison-math"
 date: 2024-08-01
