@@ -66,5 +66,10 @@
       <p><a href="{{ post.slidesurl }}">Download Slides</a></p>
     {% endif %}
 
+    {% if post.notesurl %}
+        <p><strong>Class Notes:</strong> <a href="{{ post.notesurl }}">Download</a></p>
+        <!-- <p><a href="http://example.com/notes.pdf">Download Notes</a></p> -->
+    {% endif %}
+
   </article>
 </div>
