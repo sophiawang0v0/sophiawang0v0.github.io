@@ -1,10 +1,8 @@
 ---
-layout: simple
+layout: single
 title: "Class Taken"
 permalink: /class1/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 Econ (undergrad-level)
 =====
