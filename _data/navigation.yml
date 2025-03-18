@@ -7,11 +7,8 @@
 main:
   # - title: "Publications"
   #   url: /publications/
-  - title: "Class1"
-    url: /class1/   
-
   - title: "Class"
-    url: /class/    
+    url: /class/   
     
   - title: "CV"
     url: /cv/

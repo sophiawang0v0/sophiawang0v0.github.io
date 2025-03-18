@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Class Taken"
-permalink: /class1/
+permalink: /class/
 author_profile: true
 ---
 Econ (undergrad-level)
@@ -26,6 +26,7 @@ Math
 * Math 234 (Fall 2023)
 * Math 340 (Spring 2024)
 * Math 421 (Summer 2024)
+  * <p> <a href="{{https://sophiawang0v0.github.io/files/Math421_note.pdf}}">Download Notes</a></p>
 * Math 521 (Fall 2024)
 
 CS
