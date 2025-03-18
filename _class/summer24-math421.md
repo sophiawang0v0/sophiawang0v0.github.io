@@ -2,7 +2,7 @@
 title: "Math 421"
 collection: class
 category: math
-permalink: /class/24summer-math421-note
+permalink: /class/summer24-math421
 venue: "Van Vleck"
 date: 2024-06-17
 location: "Madison, WI, USA"
