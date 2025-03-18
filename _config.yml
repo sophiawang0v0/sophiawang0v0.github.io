@@ -84,14 +84,6 @@ publication_category:
   conferences:
     title: 'Conference Papers'
 
-class_category:
-  econundergrad:
-    title: 'Econ classes (undergrad)'
-  econgrad:
-    title: 'Econ classes (grad)'
-  math:
-    title: 'Math classes'    
-
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
@@ -252,6 +244,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      
   # _publications, now just mute it. 
   # - scope:
   #     path: ""
@@ -270,16 +263,6 @@ defaults:
       layout: single
       author_profile: true
       share: false
-
-  # _class1
-  - scope:
-      path: ""
-      type: class1
-    values:
-      layout: single
-      author_profile: true
-      share: false
-
 
 # Sass/SCSS
 sass:
