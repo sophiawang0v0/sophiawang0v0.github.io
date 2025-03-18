@@ -4,7 +4,7 @@ collection: class
 category: math
 permalink: /class/24summer-math421-note
 venue: "Van Vleck"
-date: 2024-08-01
+date: 2024-06-17
 location: "Madison, WI, USA"
 notesurl: 'https://sophiawang0v0.github.io/files/Math421_note.pdf'
 ---
