@@ -4,8 +4,8 @@ title: "Class Taken"
 permalink: /class/
 author_profile: true
 ---
-Econ (undergrad-level)
-=====
+## Econ (undergrad-level)
+<!-- ===== -->
 * ECON 311 (Fall 2023)
   * Note TBD
 * ECON 312 (Spring 2024)
@@ -16,12 +16,12 @@ Econ (undergrad-level)
 * ECON 450 (Spring 2025)
 * ECON 468 (Spring 2025)
 
-Econ (grad-level)
+## Econ (grad-level)
 =====
 * Econ 709 (Fall 2025) - Expected
 * Econ 711 (Fall 2025) - Expected
 
-Math
+### Math
 =====
 * Math 234 (Fall 2023)
 * Math 340 (Spring 2024)
@@ -29,6 +29,6 @@ Math
   * [Download Note](https://sophiawang0v0.github.io/files/Math421_note.pdf)
 * Math 521 (Fall 2024)
 
-CS
+## CS
 =====
 * CS 220 (Fall 2024)
