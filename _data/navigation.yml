@@ -7,7 +7,7 @@
 main:
   # - title: "Publications"
   #   url: /publications/
-    - title: "Class1"
+  - title: "Class1"
     url: /class1/   
 
   - title: "Class"
