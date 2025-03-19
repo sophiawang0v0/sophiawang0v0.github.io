@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-### Hiiii,
+Hiiii,
 
-I'm sophia. I took my high school in BHSFIC (Beijing, China) and currently a student at University of Wisconsin-Madison. I'm currently interest in Labor economy and Industrial Organization. 
+I'm sophia. I took my high school in BHSFIC (Beijing, China) and currently a student at University of Wisconsin-Madison. I'm interest in Labor economy and Industrial Organization. 
 
 Coffee & Gundam model lover.

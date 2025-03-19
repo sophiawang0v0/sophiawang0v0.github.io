@@ -7,14 +7,16 @@ author_profile: true
 ## Econ (undergrad-level)
 
 * ECON 311 (Fall 2023)
-  * Note TBD
 * ECON 312 (Spring 2024)
 * ECON 310 (Spring 2024)
 * ECON 410 (Summer 2024)
+  * Note comming soon
 * ECON 460 (Fall 2024)
 * ECON 521 (Fall 2024)
+  * Note comming soon
 * ECON 450 (Spring 2025)
 * ECON 468 (Spring 2025)
+* ECON 580 (Spring 2025)
 
 ## Econ (grad-level)
 
@@ -28,6 +30,8 @@ author_profile: true
 * Math 421 (Summer 2024)
   * [Download Note](https://sophiawang0v0.github.io/files/Math421_note.pdf)
 * Math 521 (Fall 2024)
+  * Note comming soon
+* Math 431 (Spring 2025)
 
 ## CS
 
