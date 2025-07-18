@@ -23,7 +23,7 @@ author_profile: true
 
 | :--------: | :-------: |
 | Math 234 | Math 340 |
-| Math 421 * [Download Note](https://sophiawang0v0.github.io/files/Math421_note.pdf) | Math 431 |
+| Math 421 [Download Note](https://sophiawang0v0.github.io/files/Math421_note.pdf) | Math 431 |
 | Math 521 | Math 632 |
   <!-- * [Download Note](https://sophiawang0v0.github.io/files/Math421_note.pdf) -->
 
