@@ -6,8 +6,8 @@ author_profile: true
 ---
 ## Econ (undergrad-level)
 
-| :-------- | :------- |
-| Econ 310  | Econ 311 |
+| :------- | :------- |
+| Econ 310 | Econ 311 |
 | Econ 312 | Econ 410 |
 | Econ 450 | Econ 460 |
 | Econ 468 | Econ 521 |
@@ -21,10 +21,11 @@ author_profile: true
 
 ## Math
 
-| :--------: | :-------: |
+| :------- | :------- |
 | Math 234 | Math 340 |
 | [Math 421](https://sophiawang0v0.github.io/files/Math421_note.pdf) | Math 431 |
 | Math 521 | Math 632 |
+
   <!-- * [Download Note](https://sophiawang0v0.github.io/files/Math421_note.pdf) -->
 
 ## CS
