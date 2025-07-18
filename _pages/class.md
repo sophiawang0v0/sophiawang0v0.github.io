@@ -18,6 +18,14 @@ author_profile: true
 * ECON 468 (Spring 2025)
 * ECON 580 (Spring 2025)
 
+| :-------- | :------- |
+| Econ 311  | Econ 312 |
+| Econ 310 | Econ 410 |
+| Econ 460 | Econ 521 |
+| Econ 468 | Econ 450 |
+| Econ 580 |  |
+
+
 ## Econ (grad-level)
 
 * Econ 709 (Fall 2025) - Expected
