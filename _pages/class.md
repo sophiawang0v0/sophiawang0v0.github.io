@@ -11,7 +11,7 @@ author_profile: true
 | Econ 312 | Econ 410 |
 | Econ 450 | Econ 460 |
 | Econ 468 | Econ 521 |
-| Econ 580 |  |
+| Econ 580 | |
 
 
 <!-- ## Econ (grad-level)

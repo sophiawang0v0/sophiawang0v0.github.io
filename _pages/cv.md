@@ -23,3 +23,6 @@ Skills
 ======
 * Stata
 * Python
+
+
+<embed src= "CV.SophiaWang.pdf" type="application/pdf" width= "500" height= "375">
