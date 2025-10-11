@@ -25,4 +25,4 @@ Skills
 * Python
 
 
-<embed src="https://raw.githubusercontent.com/sophiawang0v0/sophiawang0v0.github.io/master/files/CV.SophiaWang.pdf" type="application/pdf" width="600" height="500">
+<embed src="https://sophiawang0v0.github.io/files/CV.SophiaWang.pdf" type="application/pdf" width="600" height="500">
