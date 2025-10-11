@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Class Taken"
+title: "Class Taken & Notes"
 permalink: /class/
 author_profile: false
 ---

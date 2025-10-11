@@ -7,10 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Hello,
+Hiii,
 
-Welcome to my personal page, I'll post courses I took and notes for reference. Hope this can help. 
+Welcome to my personal page, I'll try to post notes of course I took on this webpage, hope this can help. 
 
-My current research interest mainly lies in : **Labor Economy, Industrial Organization, Applied Micro**
+My current research interest mainly lies in :
+    <center>**Labor Economy, Industrial Organization, Applied Micro**</center>
 
 Recently I'm interest in Bouldering and Top Rope. 
