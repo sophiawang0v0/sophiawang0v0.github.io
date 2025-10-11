@@ -9,10 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+<!-- Education
 ======
-<!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
-<!-- * M.S. in Jekyll, GitHub University, 2014 -->
 * B.S. in University of Wisconsin - Madison, 2023 - 2027 (expected)
 
 Project experience
@@ -22,7 +20,7 @@ Project experience
 Skills
 ======
 * Stata
-* Python
+* Python -->
 
 
-<embed src="https://sophiawang0v0.github.io/files/CV.SophiaWang.pdf" type="application/pdf" width="600" height="500">
+<embed src="https://sophiawang0v0.github.io/files/CV.SophiaWang.pdf" type="application/pdf" width="1000" height="1200">
