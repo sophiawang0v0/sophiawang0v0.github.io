@@ -17,7 +17,7 @@ author_profile: false
 ## Econ (grad-level)
 
 | :------- | :------- |
-| Econ 709 | Econ 711 |
+| Econ 709 |
 
 ## Math
 
